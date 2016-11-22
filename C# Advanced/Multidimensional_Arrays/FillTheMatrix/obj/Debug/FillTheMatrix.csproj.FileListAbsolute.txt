@@ -1,0 +1,6 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\FillTheMatrix\bin\Debug\FillTheMatrix.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\FillTheMatrix\bin\Debug\FillTheMatrix.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\FillTheMatrix\bin\Debug\FillTheMatrix.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\FillTheMatrix\obj\Debug\FillTheMatrix.csprojResolveAssemblyReference.cache
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\FillTheMatrix\obj\Debug\FillTheMatrix.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\FillTheMatrix\obj\Debug\FillTheMatrix.pdb

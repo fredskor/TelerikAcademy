@@ -1,0 +1,6 @@
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Replace tags\bin\Debug\Replace tags.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Replace tags\bin\Debug\Replace tags.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Replace tags\bin\Debug\Replace tags.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Replace tags\obj\Debug\Replace tags.csprojResolveAssemblyReference.cache
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Replace tags\obj\Debug\Replace tags.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Replace tags\obj\Debug\Replace tags.pdb

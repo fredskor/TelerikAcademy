@@ -1,0 +1,5 @@
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\String length\bin\Debug\String length.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\String length\bin\Debug\String length.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\String length\bin\Debug\String length.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\String length\obj\Debug\String length.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\String length\obj\Debug\String length.pdb

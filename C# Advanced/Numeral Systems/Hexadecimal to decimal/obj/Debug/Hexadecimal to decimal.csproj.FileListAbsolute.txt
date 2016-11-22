@@ -1,0 +1,1 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Hexadecimal to decimal\bin\Debug\Hexadecimal to decimal.exe.config

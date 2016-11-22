@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by two sides and an angle\bin\Debug\Triangle surface by two sides and an angle.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by two sides and an angle\bin\Debug\Triangle surface by two sides and an angle.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by two sides and an angle\bin\Debug\Triangle surface by two sides and an angle.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by two sides and an angle\obj\Debug\Triangle surface by two sides and an angle.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by two sides and an angle\obj\Debug\Triangle surface by two sides and an angle.pdb

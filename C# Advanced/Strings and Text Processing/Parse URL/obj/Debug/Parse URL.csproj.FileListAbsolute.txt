@@ -1,0 +1,6 @@
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Parse URL\bin\Debug\Parse URL.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Parse URL\bin\Debug\Parse URL.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Parse URL\bin\Debug\Parse URL.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Parse URL\obj\Debug\Parse URL.csprojResolveAssemblyReference.cache
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Parse URL\obj\Debug\Parse URL.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Strings and Text Processing\Parse URL\obj\Debug\Parse URL.pdb

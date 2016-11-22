@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Integer calculations\bin\Debug\Integer calculations.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Integer calculations\bin\Debug\Integer calculations.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Integer calculations\bin\Debug\Integer calculations.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Integer calculations\obj\Debug\Integer calculations.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Integer calculations\obj\Debug\Integer calculations.pdb

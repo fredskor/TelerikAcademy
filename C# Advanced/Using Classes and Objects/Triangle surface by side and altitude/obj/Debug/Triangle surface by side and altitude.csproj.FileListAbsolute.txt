@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by side and altitude\bin\Debug\Triangle surface by side and altitude.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by side and altitude\bin\Debug\Triangle surface by side and altitude.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by side and altitude\bin\Debug\Triangle surface by side and altitude.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by side and altitude\obj\Debug\Triangle surface by side and altitude.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Triangle surface by side and altitude\obj\Debug\Triangle surface by side and altitude.pdb

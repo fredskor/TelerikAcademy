@@ -1,0 +1,6 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Numeral Systems\bin\Debug\Numeral Systems.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Numeral Systems\bin\Debug\Numeral Systems.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Numeral Systems\bin\Debug\Numeral Systems.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Numeral Systems\obj\Debug\Decimal to binary.csprojResolveAssemblyReference.cache
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Numeral Systems\obj\Debug\Numeral Systems.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Numeral Systems\obj\Debug\Numeral Systems.pdb

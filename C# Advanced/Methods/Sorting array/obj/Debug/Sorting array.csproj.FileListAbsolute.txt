@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Sorting array\bin\Debug\Sorting array.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Sorting array\bin\Debug\Sorting array.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Sorting array\bin\Debug\Sorting array.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Sorting array\obj\Debug\Sorting array.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Methods\Sorting array\obj\Debug\Sorting array.pdb

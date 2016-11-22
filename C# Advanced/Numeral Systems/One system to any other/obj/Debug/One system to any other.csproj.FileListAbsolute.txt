@@ -1,0 +1,6 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\One system to any other\bin\Debug\One system to any other.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\One system to any other\bin\Debug\One system to any other.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\One system to any other\bin\Debug\One system to any other.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\One system to any other\obj\Debug\One system to any other.csprojResolveAssemblyReference.cache
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\One system to any other\obj\Debug\One system to any other.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\One system to any other\obj\Debug\One system to any other.pdb

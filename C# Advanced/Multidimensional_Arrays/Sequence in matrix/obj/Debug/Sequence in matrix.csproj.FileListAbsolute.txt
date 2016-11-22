@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\Sequence in matrix\bin\Debug\Sequence in matrix.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\Sequence in matrix\bin\Debug\Sequence in matrix.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\Sequence in matrix\bin\Debug\Sequence in matrix.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\Sequence in matrix\obj\Debug\Sequence in matrix.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\CsharpAdvanced\Sequence in matrix\obj\Debug\Sequence in matrix.pdb

@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Sum integers\bin\Debug\Sum integers.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Sum integers\bin\Debug\Sum integers.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Sum integers\bin\Debug\Sum integers.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Sum integers\obj\Debug\Sum integers.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Using Classes and Objects\Sum integers\obj\Debug\Sum integers.pdb

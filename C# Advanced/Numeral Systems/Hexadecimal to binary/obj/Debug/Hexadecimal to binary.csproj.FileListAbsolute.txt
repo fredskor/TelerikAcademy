@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Hexadecimal to binary\bin\Debug\Hexadecimal to binary.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Hexadecimal to binary\bin\Debug\Hexadecimal to binary.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Hexadecimal to binary\bin\Debug\Hexadecimal to binary.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Hexadecimal to binary\obj\Debug\Hexadecimal to binary.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\Hexadecimal to binary\obj\Debug\Hexadecimal to binary.pdb

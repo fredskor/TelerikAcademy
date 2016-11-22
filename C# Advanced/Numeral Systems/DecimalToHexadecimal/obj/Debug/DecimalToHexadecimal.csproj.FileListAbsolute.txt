@@ -1,0 +1,6 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\Numeral Systems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb
