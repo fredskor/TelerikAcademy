@@ -1,0 +1,15 @@
+body {
+	font-family: Consolas;
+	color: #0094FF;
+}
+#Oneletter {
+	font-size: 45px;
+	font-family: Edwardian Script ITC;
+}
+#firstLine {
+	font-size: 18px;
+	font-weight: 600;
+}
+#secondLine {
+	font-size: 16px;
+}
