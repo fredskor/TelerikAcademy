@@ -4,20 +4,19 @@ Submit homework in bgcoder
 
 Problem List
 
-Play with Visual Studio
-Blank Solution
-Play with MSDN Library
 Hello World
-Print Name
-Print Numbers
-Print First and Last Name
-Square root
-Print Sequence
-Format Code
-Programming Languages
-Development Environments
-C# and .NET Differences
-Current Date and Time
-Age
-Print Long Sequence
-Play with the VS Debugger
+
+Description
+
+Create, compile and run a Hello World application - it should print the string Hello, C#! on the console.
+
+Input
+
+There is no input for this task.
+Output
+
+Print Hello, C#! on the console.
+Constraints
+
+Time limit: 0.1s
+Memory limit: 16MB
