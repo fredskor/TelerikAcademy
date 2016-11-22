@@ -1,0 +1,24 @@
+<article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-homework-operators-and-expressions" class="anchor" href="#homework-operators-and-expressions" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Homework: Operators and Expressions</h1>
+
+<h3><a id="user-content-submit-homework-in-bgcoder" class="anchor" href="#submit-homework-in-bgcoder" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="http://bgcoder.com/Contests/310/CSharp-Fundamentals-03-Operators-and-Expressions">Submit homework in bgcoder</a></h3>
+
+<h3><a id="user-content-problem-list" class="anchor" href="#problem-list" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Problem List</h3>
+
+<ol>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/02.%20Moon%20Gravity">Moon Gravity</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/03.%20Divide%20by%207%20and%205">Divide by 7 and 5</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/04.%20Rectangles">Rectangles</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/01.%20Odd%20or%20Even">Odd or Even</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/05.%20Third%20digit">Third digit</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/06.%20Four%20digits">Four digits</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/07.%20Point%20in%20a%20circle">Point in a circle</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/08.%20Prime%20Check">Prime check</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/09.%20Trapezoids">Trapezoids</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/10.%20Point,%20Circle,%20Rectangle">Point, Circle, Rectangle</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/11.%203rd%20Bit">3rd Bit</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/12.%20N-th%20bit">N-th Bit</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/13.%20Modify%20Bit">Modify Bit</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/14.%20BitExchange">BitExchange</a></li>
+<li><a href="https://github.com/TelerikAcademy/CSharp-Part-1/blob/2016-March/Topics/03.%20Operators-and-Expressions/homework/15.%20BitSwap">BitSwap</a></li>
+</ol>
+</article>
