@@ -1,0 +1,8 @@
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

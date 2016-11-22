@@ -1,0 +1,8 @@
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

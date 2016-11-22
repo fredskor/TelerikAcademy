@@ -1,0 +1,6 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf3Num\bin\Debug\SumOf3Num.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf3Num\bin\Debug\SumOf3Num.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf3Num\bin\Debug\SumOf3Num.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf3Num\obj\Debug\SumOf3Num.csprojResolveAssemblyReference.cache
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf3Num\obj\Debug\SumOf3Num.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf3Num\obj\Debug\SumOf3Num.pdb

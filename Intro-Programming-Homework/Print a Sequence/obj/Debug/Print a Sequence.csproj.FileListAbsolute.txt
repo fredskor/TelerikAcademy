@@ -1,0 +1,12 @@
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print a Sequence\bin\Debug\Print a Sequence.exe.config
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print a Sequence\obj\Debug\Print a Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print a Sequence\bin\Debug\Print a Sequence.exe
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print a Sequence\bin\Debug\Print a Sequence.pdb
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print a Sequence\obj\Debug\Print a Sequence.exe
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Print a Sequence\obj\Debug\Print a Sequence.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Print a Sequence\bin\Debug\Print a Sequence.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Print a Sequence\obj\Debug\Print a Sequence.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Print a Sequence\obj\Debug\Print a Sequence.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Print a Sequence\bin\Debug\Print a Sequence.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Print a Sequence\bin\Debug\Print a Sequence.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Print a Sequence\obj\Debug\Print a Sequence.csprojResolveAssemblyReference.cache

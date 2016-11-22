@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb

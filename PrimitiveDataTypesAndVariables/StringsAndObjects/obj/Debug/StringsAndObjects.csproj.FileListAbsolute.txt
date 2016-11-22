@@ -1,0 +1,6 @@
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

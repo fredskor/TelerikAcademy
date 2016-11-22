@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers Comparer\bin\Debug\Numbers Comparer.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers Comparer\bin\Debug\Numbers Comparer.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers Comparer\bin\Debug\Numbers Comparer.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers Comparer\obj\Debug\Numbers Comparer.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers Comparer\obj\Debug\Numbers Comparer.pdb

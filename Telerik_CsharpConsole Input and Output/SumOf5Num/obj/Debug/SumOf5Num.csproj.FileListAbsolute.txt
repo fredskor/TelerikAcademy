@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf5Num\bin\Debug\SumOf5Num.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf5Num\bin\Debug\SumOf5Num.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf5Num\bin\Debug\SumOf5Num.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf5Num\obj\Debug\SumOf5Num.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\SumOf5Num\obj\Debug\SumOf5Num.pdb

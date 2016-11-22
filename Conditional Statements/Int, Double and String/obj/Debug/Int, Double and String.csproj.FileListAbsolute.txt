@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Int, Double and String\bin\Debug\Int, Double and String.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Int, Double and String\bin\Debug\Int, Double and String.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Int, Double and String\bin\Debug\Int, Double and String.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Int, Double and String\obj\Debug\Int, Double and String.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Int, Double and String\obj\Debug\Int, Double and String.pdb

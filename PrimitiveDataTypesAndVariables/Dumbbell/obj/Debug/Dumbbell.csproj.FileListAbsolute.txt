@@ -1,0 +1,5 @@
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\Dumbbell\bin\Debug\Dumbbell.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\Dumbbell\bin\Debug\Dumbbell.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\Dumbbell\bin\Debug\Dumbbell.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\Dumbbell\obj\Debug\Dumbbell.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\Dumbbell\obj\Debug\Dumbbell.pdb

@@ -1,0 +1,10 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\BitwiseExtractBit_3\bin\Debug\BitwiseExtractBit_3.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\BitwiseExtractBit_3\bin\Debug\BitwiseExtractBit_3.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\BitwiseExtractBit_3\bin\Debug\BitwiseExtractBit_3.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\BitwiseExtractBit_3\obj\Debug\BitwiseExtractBit_3.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\BitwiseExtractBit_3\obj\Debug\BitwiseExtractBit_3.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitwiseExtractBit_3\bin\Debug\BitwiseExtractBit_3.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitwiseExtractBit_3\obj\Debug\BitwiseExtractBit_3.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitwiseExtractBit_3\obj\Debug\BitwiseExtractBit_3.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitwiseExtractBit_3\bin\Debug\BitwiseExtractBit_3.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitwiseExtractBit_3\bin\Debug\BitwiseExtractBit_3.pdb

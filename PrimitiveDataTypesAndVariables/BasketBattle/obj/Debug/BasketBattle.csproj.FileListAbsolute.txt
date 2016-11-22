@@ -1,0 +1,8 @@
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BasketBattle\bin\Debug\BasketBattle.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BasketBattle\bin\Debug\BasketBattle.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BasketBattle\bin\Debug\BasketBattle.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BasketBattle\obj\Debug\BasketBattle.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\BasketBattle\obj\Debug\BasketBattle.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\BasketBattle\bin\Debug\BasketBattle.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\BasketBattle\obj\Debug\BasketBattle.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\BasketBattle\obj\Debug\BasketBattle.pdb

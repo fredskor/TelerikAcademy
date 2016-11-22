@@ -1,0 +1,3 @@
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp1\bin\Debug\HelloCSharp1.exe.config
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp1\obj\Debug\HelloCSharp1.exe
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp1\obj\Debug\HelloCSharp1.pdb

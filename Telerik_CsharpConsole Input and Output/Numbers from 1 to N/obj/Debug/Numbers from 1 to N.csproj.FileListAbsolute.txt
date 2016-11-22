@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers from 1 to N\bin\Debug\Numbers from 1 to N.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Numbers from 1 to N\obj\Debug\Numbers from 1 to N.pdb

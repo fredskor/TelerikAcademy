@@ -1,0 +1,6 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Quadratic Equation\bin\Debug\Quadratic Equation.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Quadratic Equation\bin\Debug\Quadratic Equation.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Quadratic Equation\bin\Debug\Quadratic Equation.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Quadratic Equation\obj\Debug\Quadratic Equation.csprojResolveAssemblyReference.cache
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Quadratic Equation\obj\Debug\Quadratic Equation.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Telerik_CsharpConsole Input and Output\Quadratic Equation\obj\Debug\Quadratic Equation.pdb

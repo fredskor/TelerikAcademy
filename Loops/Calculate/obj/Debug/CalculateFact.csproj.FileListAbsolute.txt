@@ -1,0 +1,3 @@
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\Calculate\bin\Debug\Calculate.exe.config
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\Calculate\obj\Debug\Calculate.exe
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\Calculate\obj\Debug\Calculate.pdb

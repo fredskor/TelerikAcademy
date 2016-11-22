@@ -1,0 +1,6 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Sort 3 Numbers\bin\Debug\Sort 3 Numbers.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Sort 3 Numbers\bin\Debug\Sort 3 Numbers.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Sort 3 Numbers\bin\Debug\Sort 3 Numbers.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Sort 3 Numbers\obj\Debug\Sort 3 Numbers.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Sort 3 Numbers\obj\Debug\Sort 3 Numbers.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Sort 3 Numbers\obj\Debug\Sort 3 Numbers.csprojResolveAssemblyReference.cache

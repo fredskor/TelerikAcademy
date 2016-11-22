@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

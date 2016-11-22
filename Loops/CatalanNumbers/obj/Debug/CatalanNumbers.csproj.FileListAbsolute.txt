@@ -1,0 +1,5 @@
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.pdb

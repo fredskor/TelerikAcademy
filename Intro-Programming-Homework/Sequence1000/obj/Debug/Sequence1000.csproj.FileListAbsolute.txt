@@ -1,0 +1,12 @@
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence1000\bin\Debug\Sequence1000.exe.config
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence1000\bin\Debug\Sequence1000.exe
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence1000\bin\Debug\Sequence1000.pdb
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence1000\obj\Debug\Sequence1000.csprojResolveAssemblyReference.cache
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence1000\obj\Debug\Sequence1000.exe
+C:\Users\Kotqrikz\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence1000\obj\Debug\Sequence1000.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Sequence1000\bin\Debug\Sequence1000.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Sequence1000\obj\Debug\Sequence1000.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Sequence1000\obj\Debug\Sequence1000.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Sequence1000\bin\Debug\Sequence1000.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Sequence1000\bin\Debug\Sequence1000.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Introduction to Programming\Intro-Programming-Homework\Sequence1000\obj\Debug\Sequence1000.csprojResolveAssemblyReference.cache

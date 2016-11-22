@@ -1,0 +1,9 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\OddOrEvenIntegers\bin\Debug\OddOrEvenIntegers.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\OddOrEvenIntegers\obj\Debug\OddOrEvenIntegers.pdb

@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\bin\Debug\Bonus Score.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\bin\Debug\Bonus Score.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\bin\Debug\Bonus Score.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\obj\Debug\Bonus Score.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Bonus Score\obj\Debug\Bonus Score.pdb

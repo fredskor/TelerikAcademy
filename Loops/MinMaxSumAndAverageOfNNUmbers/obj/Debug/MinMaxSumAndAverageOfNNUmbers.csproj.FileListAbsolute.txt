@@ -1,0 +1,6 @@
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\MinMaxSumAndAverageOfNNUmbers\bin\Debug\MinMaxSumAndAverageOfNNUmbers.exe.config
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\MinMaxSumAndAverageOfNNUmbers\bin\Debug\MinMaxSumAndAverageOfNNUmbers.exe
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\MinMaxSumAndAverageOfNNUmbers\bin\Debug\MinMaxSumAndAverageOfNNUmbers.pdb
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\MinMaxSumAndAverageOfNNUmbers\obj\Debug\MinMaxSumAndAverageOfNNUmbers.csprojResolveAssemblyReference.cache
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\MinMaxSumAndAverageOfNNUmbers\obj\Debug\MinMaxSumAndAverageOfNNUmbers.exe
+c:\Users\skorozhf\documents\visual studio 2015\Projects\Loops\MinMaxSumAndAverageOfNNUmbers\obj\Debug\MinMaxSumAndAverageOfNNUmbers.pdb

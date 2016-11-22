@@ -1,0 +1,6 @@
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitSwap\bin\Debug\BitSwap.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitSwap\obj\Debug\BitSwap.csprojResolveAssemblyReference.cache
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitSwap\bin\Debug\BitSwap.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitSwap\bin\Debug\BitSwap.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitSwap\obj\Debug\BitSwap.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\BitSwap\obj\Debug\BitSwap.pdb

@@ -1,0 +1,12 @@
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\skorozhf\Documents\Visual Studio 2015\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Primitive Data Types and Variables\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache

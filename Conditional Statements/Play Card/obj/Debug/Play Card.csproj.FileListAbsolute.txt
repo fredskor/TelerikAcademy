@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Play Card\bin\Debug\Play Card.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Play Card\bin\Debug\Play Card.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Play Card\bin\Debug\Play Card.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Play Card\obj\Debug\Play Card.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Play Card\obj\Debug\Play Card.pdb

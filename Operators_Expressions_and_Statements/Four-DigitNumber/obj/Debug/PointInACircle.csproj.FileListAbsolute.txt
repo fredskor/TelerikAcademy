@@ -1,0 +1,3 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\Four-DigitNumber\bin\Debug\Four-DigitNumber.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\Four-DigitNumber\obj\Debug\Four-DigitNumber.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\Four-DigitNumber\obj\Debug\Four-DigitNumber.pdb

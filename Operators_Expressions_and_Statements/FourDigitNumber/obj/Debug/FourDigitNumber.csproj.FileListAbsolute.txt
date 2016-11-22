@@ -1,0 +1,8 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

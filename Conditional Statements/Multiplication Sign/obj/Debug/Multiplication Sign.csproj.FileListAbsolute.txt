@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Sign\bin\Debug\Multiplication Sign.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Sign\bin\Debug\Multiplication Sign.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Sign\bin\Debug\Multiplication Sign.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Sign\obj\Debug\Multiplication Sign.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Conditional Statements\Multiplication Sign\obj\Debug\Multiplication Sign.pdb

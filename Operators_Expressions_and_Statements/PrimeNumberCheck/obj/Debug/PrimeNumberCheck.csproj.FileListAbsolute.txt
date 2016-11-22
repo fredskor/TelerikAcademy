@@ -1,0 +1,8 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Operators_Expressions_and_Statements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\skorozhf\Downloads\Homework-fredskor-Operators and Expressions (1)\Operators_Expressions_and_Statements\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
