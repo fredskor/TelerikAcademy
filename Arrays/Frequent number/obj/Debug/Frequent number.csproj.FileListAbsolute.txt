@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Frequent number\bin\Debug\Frequent number.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Frequent number\bin\Debug\Frequent number.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Frequent number\bin\Debug\Frequent number.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Frequent number\obj\Debug\Frequent number.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Frequent number\obj\Debug\Frequent number.pdb

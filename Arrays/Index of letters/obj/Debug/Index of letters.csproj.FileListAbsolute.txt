@@ -1,0 +1,5 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Index of letters\bin\Debug\Index of letters.exe.config
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Index of letters\bin\Debug\Index of letters.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Index of letters\bin\Debug\Index of letters.pdb
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Index of letters\obj\Debug\Index of letters.exe
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Index of letters\obj\Debug\Index of letters.pdb

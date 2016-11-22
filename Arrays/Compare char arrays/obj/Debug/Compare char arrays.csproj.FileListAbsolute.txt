@@ -1,0 +1,1 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Compare char arrays\bin\Debug\Compare char arrays.exe.config

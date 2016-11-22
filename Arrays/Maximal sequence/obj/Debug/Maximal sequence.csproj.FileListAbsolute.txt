@@ -1,0 +1,1 @@
+c:\users\skorozhf\documents\visual studio 2015\Projects\Arrays\Maximal sequence\bin\Debug\Maximal sequence.exe.config
